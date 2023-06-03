@@ -1,4 +1,4 @@
-# SQL
+# SQL Portfolio
 ## Welcome to my SQL portfolio! This repository contains a collection of SQL projects and queries that demonstrate my skills and experience with working with databases. Each project focuses on different aspects of SQL, such as data manipulation, querying, and database design.
 
 Contact:
